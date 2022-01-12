@@ -1,7 +1,7 @@
 package org.bmcstudios.bmcsdk
 
-object SDK {
-    fun testSDKReturnString(string: String): String {
+object BmcSdk {
+    fun testReturnString(string: String): String {
         return string
     }
 }
